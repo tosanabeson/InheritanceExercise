@@ -1,0 +1,13 @@
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\bin\Debug\netcoreapp3.1\inheritanceExercise.exe
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\bin\Debug\netcoreapp3.1\inheritanceExercise.deps.json
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\bin\Debug\netcoreapp3.1\inheritanceExercise.runtimeconfig.json
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\bin\Debug\netcoreapp3.1\inheritanceExercise.runtimeconfig.dev.json
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\bin\Debug\netcoreapp3.1\inheritanceExercise.dll
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\bin\Debug\netcoreapp3.1\inheritanceExercise.pdb
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\obj\Debug\netcoreapp3.1\inheritanceExercise.csprojAssemblyReference.cache
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\obj\Debug\netcoreapp3.1\inheritanceExercise.AssemblyInfoInputs.cache
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\obj\Debug\netcoreapp3.1\inheritanceExercise.AssemblyInfo.cs
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\obj\Debug\netcoreapp3.1\inheritanceExercise.csproj.CoreCompileInputs.cache
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\obj\Debug\netcoreapp3.1\inheritanceExercise.dll
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\obj\Debug\netcoreapp3.1\inheritanceExercise.pdb
+C:\Users\tosan\source\repos\inheritanceExercise\inheritanceExercise\obj\Debug\netcoreapp3.1\inheritanceExercise.genruntimeconfig.cache
